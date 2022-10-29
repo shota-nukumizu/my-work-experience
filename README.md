@@ -14,6 +14,7 @@
 |  **職業**   | 個人事業主、九州大学文学部人文学科(2023年3月卒業見込み)    | 
 |  **専攻**   |  社会学   | 
 |  **英語**   |  実用英語技能検定2級   |
+| **得意な言語** | <img src="https://skillicons.dev/icons?i=python,typescript,dart" /> |
 | **主な制作物** | [NestJSの教科書](https://docs.nest-book.jp/)(現在はベータ版)  |
 | **OSSへの貢献経験** | あり。[『サバイバルTypeScript』](https://typescriptbook.jp/)の公式GitHubのIssueに記事の問題点・コンテンツの提案を行う。  |
 | **Twitter** | [@Nameless_SN](https://twitter.com/Nameless_SN)(フォロワー数は2,500超) |
@@ -32,7 +33,6 @@
 ## Overview
 
 * バックエンド(認証機能の実装、コーディング、API設計、データベースなど)が専門。
-* 得意言語はPython、TypeScript、Dart。
 * バックエンドの開発経験(Python)があり、Django/FastAPIを用いたシステム開発に精通している。
 * プログラミングの独学に着手した契機は、**PythonでExcel作業を自動化できることに魅力を感じたこと**。
 * 2021年6月に開発業務を開始して1年以上経過。
