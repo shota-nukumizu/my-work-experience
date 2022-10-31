@@ -41,9 +41,30 @@
 
 ## Skills
 
-メインの開発環境は**Windows 11**。
+メインの開発環境は**Windows 11**。得意な言語は**Python**、**TypeScript**、**Dart**。
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,dart,flutter,appwrite,firebase,supabase,angular,react,vue,nuxt,next,nest,django,fastapi,graphql,sqlite,mysql,mongo,prisma,github,vscode,figma,docker" /> <br /><br />
+
+### Python
+
+* PythonフレームワークのDjangoとFastAPIでTwitter風の簡単な投稿アプリを開発できる
+* Django REST FrameworkとFastAPIで簡単なCRUD機能のAPIを開発できる
+* Django✕MongoDBの環境構築ができる
+* Python(DjangoとFastAPI両方)でOAuth認証とJWT認証を実装するのが得意。
+* Django、FastAPIでタスク管理アプリや画像共有サービスを開発できる。
+* MySQL、SQLiteとMongoDBとの連携が得意
+* FastAPIでGraphQLを使った簡易サーバを構築できる
+
+### TypeScript
+
+* WEB技術書である[『NestJSの強化書』](https://docs.nest-book.jp/)を執筆。(詳細は後述)
+* 主にバックエンドの開発が得意。NestJSでREST APIを開発したり、OpenAPIやPrismaと連携したりして自動でAPIの公式ドキュメントを出力できる。エラーの型に分類してAPIの挙動を整理できる。
+
+### Dart
+
+* Mediumにて[The History And Rules of Dart Language](https://medium.com/@author2000.1225/the-history-and-rules-of-dart-language-f25e09a58530)を公開している。簡単な文法や基礎知識を理解できる
+* Flutterで`main.dart`のみで動作する簡単なチェスアプリを開発できる
+* SupabaseとFlutterを連携させた簡単なアプリケーションを開発できる。
 
 ## Work Experience
 
