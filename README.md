@@ -41,7 +41,7 @@
 | **基本的な生活リズム** | 超朝型(5:00起床、21:00就寝) |
 | **影響を受けたゲーム** | ドラゴンクエストIII そして伝説へ... |
 | **影響を受けた漫画作品** | ONE PIECE |
-| **影響を受けた漫画キャラクター** | トラファルガー・ロー、サー・クロコダイル、バギー |
+| **影響を受けた漫画キャラクター** | トラファルガー・ロー、サー・クロコダイル、バギー、イッショウ |
 | **イメージする職業**(**DQ**) | 遊び人から転職した賢者 |
 | **イメージする国** | ソマリア |
 | **icon**  | ![](myicon.png)  |
@@ -81,6 +81,16 @@
 * Mediumにて[The History And Rules of Dart Language](https://medium.com/@author2000.1225/the-history-and-rules-of-dart-language-f25e09a58530)を公開している。簡単な文法や基礎知識を理解できる
 * Flutterで`main.dart`のみで動作する簡単なチェスアプリを開発できる
 * SupabaseとFlutterを連携させた簡単なアプリケーションを開発できる。
+
+### Figma
+
+* プログラミング関連の情報を図解でツイートしたことがある。(主に初心者向けに。下のツイートを参照)
+* Twitter上に公開する図解を作成するときに、以下のツイートのようなクオリティの図解を作成できる
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">自称プログラマが絶対に確認すべきサイトを3つ紹介した。<br><br>3つのサイトの共通点は「取り扱う内容の幅広さ」である。<br><br>最低限これらのサイトをチェックしておけば学習や開発で困ることはないだろう。<br><br>知的エンタメとしても面白い。<a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニアと繋がりたい</a><a href="https://twitter.com/hashtag/%E4%BB%8A%E6%97%A5%E3%81%AE%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92?src=hash&amp;ref_src=twsrc%5Etfw">#今日の積み上げ</a><a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#プログラミング</a> <a href="https://t.co/f5EXLMQtBW">pic.twitter.com/f5EXLMQtBW</a></p>&mdash; Shota Nukumizu (@Nameless_SN) <a href="https://twitter.com/Nameless_SN/status/1545603889688625152?ref_src=twsrc%5Etfw">July 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">自称プログラマーが必ず登録しておきたいYouTubeチャンネルを4つ紹介した。<br><br>☑freeCodeCamp<br>☑The Net Ninja<br>☑Traversy Media<br>☑JavaScript Mastery<br><br>とりあえずこれらを登録すれば学習や開発で困らない。<a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニアと繋がりたい</a><a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%88%9D%E5%BF%83%E8%80%85?src=hash&amp;ref_src=twsrc%5Etfw">#プログラミング初心者</a><a href="https://twitter.com/hashtag/%E4%BB%8A%E6%97%A5%E3%81%AE%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92?src=hash&amp;ref_src=twsrc%5Etfw">#今日の積み上げ</a><a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#プログラミング</a> <a href="https://t.co/ipPkge8yiU">pic.twitter.com/ipPkge8yiU</a></p>&mdash; Shota Nukumizu (@Nameless_SN) <a href="https://twitter.com/Nameless_SN/status/1563436253701234688?ref_src=twsrc%5Etfw">August 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Work Experience
 
