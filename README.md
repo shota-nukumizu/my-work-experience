@@ -100,7 +100,6 @@
   August 27, 2022
   </a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Work Experience
