@@ -8,7 +8,7 @@
     - [TypeScript](#typescript)
     - [Dart](#dart)
   - [Work Experience](#work-experience)
-    - [マッチングサービス・コミュニティ運営に関するWebサービスの開発(自社開発ベンチャー)【Django/Next.js/Docker/MySQL】2022年10月～(現在着手中)](#webdjangonextjsdockermysql202210)
+    - [マッチングサービス・コミュニティ運営に関するWebサービスの開発(自社開発ベンチャー)【Django/Next.js/Docker/MySQL】2022年10月](#webdjangonextjsdockermysql202210)
     - [Web技術書『NestJSの強化書』執筆【NestJS/TypeScript/Gitbook/MongoDB/SQLite】2022年6月～(現在着手中)](#webnestjsnestjstypescriptgitbookmongodbsqlite20226)
     - [Python・TypeScriptに特化した質問を投稿できるチャットアプリの開発【TypeScript/Vue/NestJS/SQLite/Socket.io】2022年5月～2022年7月](#pythontypescripttypescriptvuenestjssqlitesocketio2022520227)
     - [匿名で自分の日記を公開できるWebサービスの開発【TypeScript/Next.js/Firebase】2022年1月～2022年4月](#webtypescriptnextjsfirebase2022120224)
@@ -33,9 +33,9 @@
 | **得意な言語** | <img src="https://skillicons.dev/icons?i=python,typescript,dart" /> |
 | **主な制作物** | [NestJSの教科書](https://docs.nest-book.jp/)(現在はベータ版)  |
 | **OSSへの貢献経験** | あり。[『サバイバルTypeScript』](https://typescriptbook.jp/)の公式GitHubのIssueに記事の問題点・コンテンツの提案を行う。  |
-| **Twitter** | [@Nameless_SN](https://twitter.com/Nameless_SN)(フォロワー数は2,500超) |
+| **Twitter** | [@Nameless_SN](https://twitter.com/Nameless_SN)(フォロワー数は3,000弱) |
 | **Medium** | [@author2000.1225](https://medium.com/@author2000.1225) |
-| **Zenn** | [@nameless_sn](https://zenn.dev/nameless_sn)(フォロワー数は200超) |
+| **Zenn** | [@nameless_sn](https://zenn.dev/nameless_sn)(フォロワー数は300弱) |
 | **ブログ** | [Re: ゼロから始める文系プログラマ](https://shotanukumizu-1000.hatenablog.com/)(はてなブログにて運営)  |
 | **趣味** | 読書、チェス、アニメ鑑賞、ゲーム |
 | **基本的な生活リズム** | 超朝型(5:00起床、21:00就寝) |
@@ -100,6 +100,7 @@
 * Dockerを使ったローカル環境の構築。新規のgitブランチの生成。
 * Next.jsでマッチングサービスのLPを一部修正。(フロントエンド)
 * Djangoの各アプリケーション配下のJSONデータをMySQLに送信。
+* プロダクト開発時のドキュメント管理をGitHub上で行い、効率的なドキュメント管理に貢献した。制作したドキュメントの内容は、新しくプロダクトに参画する人に向けたプロダクトの技術選定に関することである。あらかじめZennにて[【徹底解説】FastAPIの特徴と課題点](https://zenn.dev/nameless_sn/articles/why_fastapi_development)や[私がDjangoでWeb開発を行う理由](https://zenn.dev/nameless_sn/articles/why_django_development)を書いていたので、他社への技術選定に関する資料を効率的に作成する上で貢献した。
 
 ### Web技術書『NestJSの強化書』執筆【NestJS/TypeScript/Gitbook/MongoDB/SQLite】2022年6月～(現在着手中)
 
