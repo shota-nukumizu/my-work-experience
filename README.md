@@ -33,9 +33,9 @@
 | **得意な言語** | <img src="https://skillicons.dev/icons?i=python,typescript,dart" /> |
 | **主な制作物** | [NestJSの教科書](https://docs.nest-book.jp/)(現在はベータ版)  |
 | **OSSへの貢献経験** | あり。[『サバイバルTypeScript』](https://typescriptbook.jp/)の公式GitHubのIssueに記事の問題点・コンテンツの提案を行う。  |
-| **Twitter** | [@Nameless_SN](https://twitter.com/Nameless_SN)(フォロワー数は3,000弱) |
+| **Twitter** | [@Nameless_SN](https://twitter.com/Nameless_SN)(フォロワー数は3,000以上) |
 | **Medium** | [@author2000.1225](https://medium.com/@author2000.1225) |
-| **Zenn** | [@nameless_sn](https://zenn.dev/nameless_sn)(フォロワー数は300弱) |
+| **Zenn** | [@nameless_sn](https://zenn.dev/nameless_sn)(フォロワー数は300以上) |
 | **ブログ** | [Re: ゼロから始める文系プログラマ](https://shotanukumizu-1000.hatenablog.com/)(はてなブログにて運営)  |
 | **趣味** | 読書、チェス、アニメ鑑賞、ゲーム |
 | **基本的な生活リズム** | 超朝型(5:00起床、21:00就寝) |
