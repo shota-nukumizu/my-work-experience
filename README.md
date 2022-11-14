@@ -92,7 +92,7 @@
 
 ![](https://storage.googleapis.com/zenn-user-upload/2b1ad5fcb927-20221104.png)
 
-## MongoDB
+### MongoDB
 
 * Zennにて[【やってみよう】NoSQL「MongoDB」を10分で学べる記事](https://zenn.dev/nameless_sn/articles/mongodb_tutorial)を投稿。MongoDBの基礎知識を丁寧に理解し、他者に説明できる。
 
