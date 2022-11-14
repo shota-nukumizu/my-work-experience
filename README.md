@@ -31,6 +31,8 @@
 |  **専攻**   |  社会学   | 
 |  **英語**   |  実用英語技能検定2級   |
 | **得意な言語** | <img src="https://skillicons.dev/icons?i=python,typescript,dart" /> |
+| **得意なデータベース**  | <img src="https://skillicons.dev/icons?i=mongodb" /> |
+| **得意なフレームワーク** | <img src="https://skillicons.dev/icons?i=django,nest" /> |
 | **主な制作物** | [NestJSの教科書](https://docs.nest-book.jp/)(現在はベータ版)  |
 | **OSSへの貢献経験** | あり。[『サバイバルTypeScript』](https://typescriptbook.jp/)の公式GitHubのIssueに記事の問題点・コンテンツの提案を行う。  |
 | **Twitter** | [@Nameless_SN](https://twitter.com/Nameless_SN)(フォロワー数は3,000以上) |
@@ -70,6 +72,7 @@
 * Django、FastAPIでタスク管理アプリや画像共有サービスを開発できる。
 * MySQL、SQLiteとMongoDBとの連携が得意
 * FastAPIでGraphQLを使った簡易サーバを構築できる
+* [FastAPI](https://zenn.dev/nameless_sn/articles/why_fastapi_development)と[Django](https://zenn.dev/nameless_sn/articles/why_django_development)それぞれの特徴や実務における課題点を説明できる
 
 ### TypeScript
 
@@ -88,6 +91,10 @@
 * Twitter上に公開する図解を作成するときに、[以下のツイート](https://twitter.com/Nameless_SN/status/1563436253701234688)のようなクオリティの図解を作成できる
 
 ![](https://storage.googleapis.com/zenn-user-upload/2b1ad5fcb927-20221104.png)
+
+## MongoDB
+
+* Zennにて[【やってみよう】NoSQL「MongoDB」を10分で学べる記事](https://zenn.dev/nameless_sn/articles/mongodb_tutorial)を投稿。MongoDBの基礎知識を丁寧に理解し、他者に説明できる。
 
 ## Work Experience
 
