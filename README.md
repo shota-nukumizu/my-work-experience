@@ -31,7 +31,7 @@
 |  **専攻**   |  社会学   | 
 |  **英語**   |  実用英語技能検定2級   |
 | **得意な言語** | <img src="https://skillicons.dev/icons?i=python,typescript,dart" /> |
-| **得意なデータベース**  | <img src="https://skillicons.dev/icons?i=mongodb" /> |
+| **得意なデータベース**  | <img src="https://skillicons.dev/icons?i=mongodb,sqlite" /> |
 | **得意なフレームワーク** | <img src="https://skillicons.dev/icons?i=django,nest" /> |
 | **主な制作物** | [NestJSの教科書](https://docs.nest-book.jp/)(現在はベータ版)  |
 | **OSSへの貢献経験** | あり。[『サバイバルTypeScript』](https://typescriptbook.jp/)の公式GitHubのIssueに記事の問題点・コンテンツの提案を行う。  |
