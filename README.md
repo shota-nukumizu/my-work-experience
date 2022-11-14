@@ -7,6 +7,7 @@
     - [Python](#python)
     - [TypeScript](#typescript)
     - [Dart](#dart)
+    - [MongoDB](#mongodb)
   - [Work Experience](#work-experience)
     - [マッチングサービス・コミュニティ運営に関するWebサービスの開発(自社開発ベンチャー)【Django/Next.js/Docker/MySQL】2022年10月](#webdjangonextjsdockermysql202210)
     - [Web技術書『NestJSの強化書』執筆【NestJS/TypeScript/Gitbook/MongoDB/SQLite】2022年6月～(現在着手中)](#webnestjsnestjstypescriptgitbookmongodbsqlite20226)
