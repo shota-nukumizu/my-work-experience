@@ -86,7 +86,8 @@
 
 * Mediumにて[The History And Rules of Dart Language](https://medium.com/@author2000.1225/the-history-and-rules-of-dart-language-f25e09a58530)を公開している。簡単な文法や基礎知識を理解できる
 * Flutterで`main.dart`のみで動作する簡単なチェスアプリを開発できる
-* SupabaseとFlutterを連携させた簡単なアプリケーションを開発できる。
+* SupabaseとFlutterを連携させた簡単なアプリケーションを開発できる
+* FlutterのBaaSとしてよく活用されているFirebaseの代替サービスについて、[【Flutter】Firebaseの競合BaaS 6選](https://zenn.dev/nameless_sn/articles/firebase_alternative_for_flutter)で詳細に言及している。それぞれのBaaSの概要や課題点について簡潔に言及できる
 
 ### Figma
 
