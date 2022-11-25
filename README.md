@@ -35,7 +35,7 @@
 |  **英語**   |  実用英語技能検定2級   |
 | **得意な言語** | <img src="https://skillicons.dev/icons?i=python,typescript,dart" /> |
 | **得意なデータベース**  | <img src="https://skillicons.dev/icons?i=mongodb,sqlite" /> |
-| **得意なフレームワーク** | <img src="https://skillicons.dev/icons?i=django,nest" /> |
+| **得意なフレームワーク** | <img src="https://skillicons.dev/icons?i=django,fastapi,nest" /> |
 | **主な制作物** | [NestJSの教科書](https://docs.nest-book.jp/)(現在はベータ版)  |
 | **OSSへの貢献経験** | あり。[『サバイバルTypeScript』](https://typescriptbook.jp/)の公式GitHubのIssueに記事の問題点・コンテンツの提案を行う。  |
 | **Twitter** | [@Nameless_SN](https://twitter.com/Nameless_SN)(フォロワー数は3,000以上) |
@@ -63,8 +63,6 @@
 ## Skills
 
 メインの開発環境は**Windows 11**。得意な言語は**Python**、**TypeScript**、**Dart**。
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,dart,flutter,appwrite,firebase,supabase,angular,react,vue,nuxt,next,nest,django,fastapi,graphql,sqlite,mysql,mongo,prisma,github,vscode,figma,docker" /> <br /><br />
 
 ### Python
 
