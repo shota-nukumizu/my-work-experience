@@ -169,3 +169,4 @@
 ## Guidelines
 
 * [著作権に関するガイドライン](guideline.md)
+* [CONTRIBUTING](CONTRIBUTING.md)
