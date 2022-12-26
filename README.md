@@ -18,6 +18,7 @@
     - [書籍に特化した小規模ECサイトの構築【JavaScript/Vue/Django/MySQL/Stripe API/AWS】2021年6月～2021年9月](#書籍に特化した小規模ecサイトの構築javascriptvuedjangomysqlstripe-apiaws2021年6月2021年9月)
   - [What I learned from my failure](#what-i-learned-from-my-failure)
   - [Other Strong Point](#other-strong-point)
+  - [Guidelines](#guidelines)
 
 第一版は2022/10/29作成。
 
@@ -164,3 +165,7 @@
 * 海外のWebメディア「Medium」で英語で長文記事を投稿している。**英語の読み書きが非常に得意**。
 * Zenn記事では技術に関する記事よりも、プログラミング・エンジニアリングを効率良く進める上で重要なポイントやエンジニアリングに関する自分の価値観に関する記事を多く投稿している。
 * コードを書くことよりも、**システムや技術を説明したり、エンジニアリングに対する自分の価値観や考え方を言語化するほうが好き**である。理由は**技術は誰もが勉強すればそれなりに模倣できるものの、価値観や考え方は他人に模倣できないから**。
+
+## Guidelines
+
+* [著作権に関するガイドライン](guideline.md)
