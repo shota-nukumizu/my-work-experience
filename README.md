@@ -19,6 +19,7 @@
   - [What I learned from my failure](#what-i-learned-from-my-failure)
   - [Other Strong Point](#other-strong-point)
   - [Guidelines](#guidelines)
+  - [SPECIAL SPONSOR](#special-sponsor)
 
 第一版は2022/10/29作成。
 
@@ -170,3 +171,11 @@
 
 * [著作権に関するガイドライン](guideline.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
+
+## SPECIAL SPONSOR
+
+【500円】
+
+【1,000円】
+
+【2,500円】
