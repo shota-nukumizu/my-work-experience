@@ -19,7 +19,7 @@
   - [What I learned from my failure](#what-i-learned-from-my-failure)
   - [Other Strong Point](#other-strong-point)
   - [Guidelines](#guidelines)
-  - [SPECIAL SPONSOR](#special-sponsor)
+  - [Twitterアカウントの歴史](#twitterアカウントの歴史)
 
 第一版は2022/10/29作成。
 
@@ -172,12 +172,12 @@
 * [著作権に関するガイドライン](guideline.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 
-## SPECIAL SPONSOR
+## Twitterアカウントの歴史
 
-私のプログラミング・エンジニアリング活動は以下の支援者の皆様によるクラウドファンディングで成り立っています。
+2021年4月30日 Twitterアカウント創設
+2022年7月18日 Twitterフォロワー数500人突破
+2022年9月13日 Twitterフォロワー数1,000人突破
+2022年10月9日 Twitterフォロワー数2,000人突破
+2023年1月13日 Twitterフォロワー数5,000人突破
 
-【500円】
-
-【1,000円】
-
-【2,500円】
+2023年3月8日時点で、Twitterフォロワー数は7,770人を記録している。
